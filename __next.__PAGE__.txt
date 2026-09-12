@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
 2:I[97367,["/_next/static/chunks/39a4ef21e77f8f20.js","/_next/static/chunks/5776fe459a882a01.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
 3:"$Sreact.suspense"
-0:{"buildId":"P_XbOGA6MrxYciC6jW6ST","rsc":["$","$1","c",{"children":[["$","main",null,{"className":"flex min-h-screen items-center justify-center px-16","children":["$","div",null,{"className":"text-center","children":[["$","h1",null,{"className":"text-2xl font-semibold","children":"PSS Site"}],["$","p",null,{"className":"mt-2 text-sm text-muted-foreground","children":"Tools for Pixel Starships."}]]}]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"s-Dd6Mj9Jw4diOaQMzpca","rsc":["$","$1","c",{"children":[["$","main",null,{"className":"flex min-h-screen items-center justify-center px-16","children":["$","div",null,{"className":"text-center","children":[["$","h1",null,{"className":"text-2xl font-semibold","children":"PSS Site"}],["$","p",null,{"className":"mt-2 text-sm text-muted-foreground","children":"Tools for Pixel Starships."}]]}]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
 4:null
