@@ -38,6 +38,8 @@ async function addSecurityHeaders(request) {
 
     const headers = new Headers(response.headers);
     headers.set('X-Frame-Options', 'DENY');
+    headers.set('X-Content-Type-Options', 'nosniff');
+    headers.set('Cross-Origin-Opener-Policy', 'same-origin');
     headers.set('Content-Security-Policy', CSP_POLICY);
 
     return new Response(response.body, {
