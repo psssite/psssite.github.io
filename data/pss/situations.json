@@ -1,0 +1,1066 @@
+{
+  "1": {
+    "_attrs": {
+      "SituationDesignId": "1",
+      "SituationName": "Grave Day",
+      "SituationDescription": "Grave Day. Ghosts will be created during the battle",
+      "SituationType": "None",
+      "Flags": "37",
+      "ChangeType": "AddCrew",
+      "ChangeArgumentString": "character:327",
+      "RequirementString": "room:223 >= 1 && mission:156 >= 1",
+      "DailyOccurrenceLimit": "20",
+      "TriggerType": "None",
+      "Chance": "100",
+      "SituationTags": "",
+      "FromDate": "2015-07-22T01:58:08",
+      "EndDate": "2019-04-30T01:58:08",
+      "IconSpriteId": "0"
+    }
+  },
+  "2": {
+    "_attrs": {
+      "SituationDesignId": "2",
+      "SituationName": "Egg for Easter",
+      "SituationDescription": "Egg will dropped randomly",
+      "SituationType": "Environmental",
+      "Flags": "37",
+      "ChangeType": "AddLoot",
+      "ChangeArgumentString": "item:713x1",
+      "RequirementString": "",
+      "DailyOccurrenceLimit": "20",
+      "TriggerType": "PvP",
+      "Chance": "25",
+      "SituationTags": "",
+      "FromDate": "2015-07-22T01:58:08",
+      "EndDate": "2019-04-30T01:58:08",
+      "IconSpriteId": "0"
+    }
+  },
+  "3": {
+    "_attrs": {
+      "SituationDesignId": "3",
+      "SituationName": "Egg for Easter",
+      "SituationDescription": "Egg will dropped randomly",
+      "SituationType": "Environmental",
+      "Flags": "1",
+      "ChangeType": "AddLoot",
+      "ChangeArgumentString": "item:713x1",
+      "RequirementString": "",
+      "DailyOccurrenceLimit": "20",
+      "TriggerType": "ScanShip",
+      "Chance": "50",
+      "SituationTags": "",
+      "FromDate": "2015-07-22T01:58:08",
+      "EndDate": "2019-04-30T01:58:08",
+      "IconSpriteId": "0"
+    }
+  },
+  "4": {
+    "_attrs": {
+      "SituationDesignId": "4",
+      "SituationName": "Carbon Salvage",
+      "SituationDescription": "Carbon Fragment will Drop afterBattle",
+      "SituationType": "Environmental",
+      "Flags": "37",
+      "ChangeType": "AddLoot",
+      "ChangeArgumentString": "item:729x1",
+      "RequirementString": "",
+      "DailyOccurrenceLimit": "7",
+      "TriggerType": "PvP",
+      "Chance": "50",
+      "SituationTags": "",
+      "FromDate": "2015-07-22T01:58:08",
+      "EndDate": "2019-05-30T01:58:08",
+      "IconSpriteId": "0"
+    }
+  },
+  "5": {
+    "_attrs": {
+      "SituationDesignId": "5",
+      "SituationName": "Hyper EXP Event",
+      "SituationDescription": "EXP books will be dropped",
+      "SituationType": "Environmental",
+      "Flags": "37",
+      "ChangeType": "AddLoot",
+      "ChangeArgumentString": "item:560x1",
+      "RequirementString": "",
+      "DailyOccurrenceLimit": "20",
+      "TriggerType": "PvP",
+      "Chance": "100",
+      "SituationTags": "",
+      "FromDate": "2019-08-10T00:00:00",
+      "EndDate": "2020-12-12T00:00:00",
+      "IconSpriteId": "57"
+    }
+  },
+  "6": {
+    "_attrs": {
+      "SituationDesignId": "6",
+      "SituationName": "Super EXP Event",
+      "SituationDescription": "EXP books will be dropped",
+      "SituationType": "Environmental",
+      "Flags": "37",
+      "ChangeType": "AddLoot",
+      "ChangeArgumentString": "item:560x2",
+      "RequirementString": "shipLevel >= 6 && shipLevel <= 10",
+      "DailyOccurrenceLimit": "20",
+      "TriggerType": "PvP",
+      "Chance": "60",
+      "SituationTags": "",
+      "FromDate": "2019-08-10T00:00:00",
+      "EndDate": "2019-08-12T00:00:00",
+      "IconSpriteId": "0"
+    }
+  },
+  "7": {
+    "_attrs": {
+      "SituationDesignId": "7",
+      "SituationName": "Ultra EXP Event",
+      "SituationDescription": "EXP books will be dropped",
+      "SituationType": "Environmental",
+      "Flags": "37",
+      "ChangeType": "AddLoot",
+      "ChangeArgumentString": "item:561x3",
+      "RequirementString": "shipLevel >= 9 && shipLevel <= 11",
+      "DailyOccurrenceLimit": "20",
+      "TriggerType": "PvP",
+      "Chance": "40",
+      "SituationTags": "",
+      "FromDate": "2019-08-10T00:00:00",
+      "EndDate": "2019-08-12T00:00:00",
+      "IconSpriteId": "0"
+    }
+  },
+  "8": {
+    "_attrs": {
+      "SituationDesignId": "8",
+      "SituationName": "Super EXP Event 2",
+      "SituationDescription": "EXP books will be dropped",
+      "SituationType": "Environmental",
+      "Flags": "1",
+      "ChangeType": "AddLoot",
+      "ChangeArgumentString": "item:561x1",
+      "RequirementString": "shipLevel >= 6 && shipLevel <= 8",
+      "DailyOccurrenceLimit": "20",
+      "TriggerType": "PvP",
+      "Chance": "60",
+      "SituationTags": "",
+      "FromDate": "2019-08-10T00:00:00",
+      "EndDate": "2019-08-12T00:00:00",
+      "IconSpriteId": "0"
+    }
+  },
+  "9": {
+    "_attrs": {
+      "SituationDesignId": "9",
+      "SituationName": "Ultra EXP Event 2",
+      "SituationDescription": "EXP books will be dropped",
+      "SituationType": "Environmental",
+      "Flags": "37",
+      "ChangeType": "AddLoot",
+      "ChangeArgumentString": "item:562x1",
+      "RequirementString": "shipLevel >= 9 && shipLevel <= 11",
+      "DailyOccurrenceLimit": "20",
+      "TriggerType": "PvP",
+      "Chance": "40",
+      "SituationTags": "",
+      "FromDate": "2019-08-10T00:00:00",
+      "EndDate": "2019-08-12T00:00:00",
+      "IconSpriteId": "0"
+    }
+  },
+  "10": {
+    "_attrs": {
+      "SituationDesignId": "10",
+      "SituationName": "Ultra EXP Event 3",
+      "SituationDescription": "EXP books will be dropped",
+      "SituationType": "Environmental",
+      "Flags": "37",
+      "ChangeType": "AddLoot",
+      "ChangeArgumentString": "item:563x1",
+      "RequirementString": "shipLevel == 11",
+      "DailyOccurrenceLimit": "20",
+      "TriggerType": "PvP",
+      "Chance": "20",
+      "SituationTags": "",
+      "FromDate": "2019-08-10T00:00:00",
+      "EndDate": "2019-08-12T00:00:00",
+      "IconSpriteId": "0"
+    }
+  },
+  "11": {
+    "_attrs": {
+      "SituationDesignId": "11",
+      "SituationName": "Scrap Fragment Drop Event",
+      "SituationDescription": "Scrap Fragments will be dropped",
+      "SituationType": "Environmental",
+      "Flags": "37",
+      "ChangeType": "AddLoot",
+      "ChangeArgumentString": "item:728x1",
+      "RequirementString": "",
+      "DailyOccurrenceLimit": "15",
+      "TriggerType": "PvP",
+      "Chance": "25",
+      "SituationTags": "",
+      "FromDate": "2019-09-06T00:00:00",
+      "EndDate": "2019-09-09T00:00:00",
+      "IconSpriteId": "0"
+    }
+  },
+  "12": {
+    "_attrs": {
+      "SituationDesignId": "12",
+      "SituationName": "Carbon Fragment Drop Event",
+      "SituationDescription": "Carbon Fragments will be dropped",
+      "SituationType": "Environmental",
+      "Flags": "37",
+      "ChangeType": "AddLoot",
+      "ChangeArgumentString": "item:729x1",
+      "RequirementString": "",
+      "DailyOccurrenceLimit": "15",
+      "TriggerType": "PvP",
+      "Chance": "20",
+      "SituationTags": "",
+      "FromDate": "2019-09-06T00:00:00",
+      "EndDate": "2019-09-09T00:00:00",
+      "IconSpriteId": "0"
+    }
+  },
+  "13": {
+    "_attrs": {
+      "SituationDesignId": "13",
+      "SituationName": "Void Particle Drop Event",
+      "SituationDescription": "Void Particles will be dropped",
+      "SituationType": "Environmental",
+      "Flags": "1",
+      "ChangeType": "AddLoot",
+      "ChangeArgumentString": "item:778x1",
+      "RequirementString": "",
+      "DailyOccurrenceLimit": "15",
+      "TriggerType": "PvP",
+      "Chance": "10",
+      "SituationTags": "",
+      "FromDate": "2019-09-06T00:00:00",
+      "EndDate": "2019-09-09T00:00:00",
+      "IconSpriteId": "0"
+    }
+  },
+  "14": {
+    "_attrs": {
+      "SituationDesignId": "14",
+      "SituationName": "Moon Festival!",
+      "SituationDescription": "Moon Cakes can drop in Missions and PvP Battles.",
+      "SituationType": "Environmental",
+      "Flags": "13",
+      "ChangeType": "AddLoot",
+      "ChangeArgumentString": "item:806x2",
+      "RequirementString": "",
+      "DailyOccurrenceLimit": "6",
+      "TriggerType": "PvP",
+      "Chance": "30",
+      "SituationTags": "",
+      "FromDate": "2020-10-01T00:00:00",
+      "EndDate": "2020-10-07T00:00:00",
+      "IconSpriteId": "12974"
+    }
+  },
+  "15": {
+    "_attrs": {
+      "SituationDesignId": "15",
+      "SituationName": "Ninja VS Alien",
+      "SituationDescription": "Grave Day. Ghosts will be created during the battle",
+      "SituationType": "None",
+      "Flags": "47",
+      "ChangeType": "AddCrew",
+      "ChangeArgumentString": "character:30",
+      "RequirementString": "room:212 >= 1",
+      "DailyOccurrenceLimit": "999999",
+      "TriggerType": "None",
+      "Chance": "60",
+      "SituationTags": "",
+      "FromDate": "2019-09-14T01:58:08",
+      "EndDate": "2019-09-17T01:58:08",
+      "IconSpriteId": "0"
+    }
+  },
+  "17": {
+    "_attrs": {
+      "SituationDesignId": "17",
+      "SituationName": "Ninja VS Alien",
+      "SituationDescription": "Grave Day. Ghosts will be created during the battle",
+      "SituationType": "None",
+      "Flags": "47",
+      "ChangeType": "AddCrew",
+      "ChangeArgumentString": "character:47",
+      "RequirementString": "room:212 >= 1",
+      "DailyOccurrenceLimit": "999999",
+      "TriggerType": "None",
+      "Chance": "60",
+      "SituationTags": "",
+      "FromDate": "2019-09-14T01:58:08",
+      "EndDate": "2019-09-17T01:58:08",
+      "IconSpriteId": "0"
+    }
+  },
+  "18": {
+    "_attrs": {
+      "SituationDesignId": "18",
+      "SituationName": "Halloween Spooktacular!",
+      "SituationDescription": "Pumpkins can drop in Missions and PvP Battles.",
+      "SituationType": "Environmental",
+      "Flags": "109",
+      "ChangeType": "AddLoot",
+      "ChangeArgumentString": "item:814x3",
+      "RequirementString": "shipLevel > 3",
+      "DailyOccurrenceLimit": "10",
+      "TriggerType": "PvP",
+      "Chance": "100",
+      "SituationTags": "",
+      "FromDate": "2025-10-17T00:00:00",
+      "EndDate": "2025-10-31T00:00:00",
+      "IconSpriteId": "16910"
+    }
+  },
+  "19": {
+    "_attrs": {
+      "SituationDesignId": "19",
+      "SituationName": "Gifts for Christmas",
+      "SituationDescription": "Gifts will be dropped randomly",
+      "SituationType": "Environmental",
+      "Flags": "45",
+      "ChangeType": "AddLoot",
+      "ChangeArgumentString": "item:544x1",
+      "RequirementString": "",
+      "DailyOccurrenceLimit": "10",
+      "TriggerType": "PvP",
+      "Chance": "10",
+      "SituationTags": "",
+      "FromDate": "2019-12-11T00:00:00",
+      "EndDate": "2019-12-11T00:00:00",
+      "IconSpriteId": "0"
+    }
+  },
+  "21": {
+    "_attrs": {
+      "SituationDesignId": "21",
+      "SituationName": "Void Particle Drop Event",
+      "SituationDescription": "Void Particles will be dropped",
+      "SituationType": "Environmental",
+      "Flags": "37",
+      "ChangeType": "AddLoot",
+      "ChangeArgumentString": "item:778x2",
+      "RequirementString": "shipLevel > 2",
+      "DailyOccurrenceLimit": "5",
+      "TriggerType": "PvP",
+      "Chance": "50",
+      "SituationTags": "",
+      "FromDate": "2020-03-07T00:00:00",
+      "EndDate": "2020-03-10T00:00:00",
+      "IconSpriteId": "0"
+    }
+  },
+  "22": {
+    "_attrs": {
+      "SituationDesignId": "22",
+      "SituationName": "Egg for Easter",
+      "SituationDescription": "Egg will dropped randomly",
+      "SituationType": "Environmental",
+      "Flags": "1",
+      "ChangeType": "AddLoot",
+      "ChangeArgumentString": "item:713x1",
+      "RequirementString": "",
+      "DailyOccurrenceLimit": "20",
+      "TriggerType": "PvP",
+      "Chance": "25",
+      "SituationTags": "",
+      "FromDate": "2020-04-10T00:00:00",
+      "EndDate": "2020-04-17T00:00:00",
+      "IconSpriteId": "0"
+    }
+  },
+  "23": {
+    "_attrs": {
+      "SituationDesignId": "23",
+      "SituationName": "Egg for Easter",
+      "SituationDescription": "Egg will dropped randomly",
+      "SituationType": "Environmental",
+      "Flags": "1",
+      "ChangeType": "AddLoot",
+      "ChangeArgumentString": "item:713x1",
+      "RequirementString": "",
+      "DailyOccurrenceLimit": "20",
+      "TriggerType": "ScanShip",
+      "Chance": "50",
+      "SituationTags": "",
+      "FromDate": "2020-04-10T00:00:00",
+      "EndDate": "2020-04-17T00:00:00",
+      "IconSpriteId": "0"
+    }
+  },
+  "24": {
+    "_attrs": {
+      "SituationDesignId": "24",
+      "SituationName": "Bonus EXP Situation",
+      "SituationDescription": " XP Situation",
+      "SituationType": "Environmental",
+      "Flags": "37",
+      "ChangeType": "AddEXP",
+      "ChangeArgumentString": "100",
+      "RequirementString": "shipLevel >= 3 && shipLevel <= 11",
+      "DailyOccurrenceLimit": "20",
+      "TriggerType": "PvP",
+      "Chance": "100",
+      "SituationTags": "",
+      "FromDate": "2020-04-17T00:00:00",
+      "EndDate": "2020-04-20T00:00:00",
+      "IconSpriteId": "0"
+    }
+  },
+  "25": {
+    "_attrs": {
+      "SituationDesignId": "25",
+      "SituationName": "Scrap Fragment Drop Event",
+      "SituationDescription": "Scrap Fragments will be dropped",
+      "SituationType": "Environmental",
+      "Flags": "37",
+      "ChangeType": "AddLoot",
+      "ChangeArgumentString": "item:728x1",
+      "RequirementString": "",
+      "DailyOccurrenceLimit": "4",
+      "TriggerType": "PvP",
+      "Chance": "25",
+      "SituationTags": "",
+      "FromDate": "2020-05-15T00:00:00",
+      "EndDate": "2020-05-18T00:00:00",
+      "IconSpriteId": "0"
+    }
+  },
+  "26": {
+    "_attrs": {
+      "SituationDesignId": "26",
+      "SituationName": "Carbon Fragment Drop Event",
+      "SituationDescription": "Carbon Fragments will be dropped",
+      "SituationType": "Environmental",
+      "Flags": "37",
+      "ChangeType": "AddLoot",
+      "ChangeArgumentString": "item:955x1",
+      "RequirementString": "",
+      "DailyOccurrenceLimit": "5",
+      "TriggerType": "PvP",
+      "Chance": "20",
+      "SituationTags": "",
+      "FromDate": "2020-06-20T00:00:00",
+      "EndDate": "2020-06-22T00:00:00",
+      "IconSpriteId": "0"
+    }
+  },
+  "27": {
+    "_attrs": {
+      "SituationDesignId": "27",
+      "SituationName": "Bonus EXP Situation",
+      "SituationDescription": " XP Situation",
+      "SituationType": "Environmental",
+      "Flags": "37",
+      "ChangeType": "AddEXP",
+      "ChangeArgumentString": "100",
+      "RequirementString": "shipLevel >= 3 && shipLevel <= 12",
+      "DailyOccurrenceLimit": "9999",
+      "TriggerType": "PvP",
+      "Chance": "100",
+      "SituationTags": "",
+      "FromDate": "2020-06-05T00:00:00",
+      "EndDate": "2020-06-08T00:00:00",
+      "IconSpriteId": "0"
+    }
+  },
+  "28": {
+    "_attrs": {
+      "SituationDesignId": "28",
+      "SituationName": "Fortune zongzi Drop Event",
+      "SituationDescription": "Fortune zongzi will be dropped",
+      "SituationType": "Environmental",
+      "Flags": "5",
+      "ChangeType": "AddLoot",
+      "ChangeArgumentString": "item:955x1",
+      "RequirementString": "",
+      "DailyOccurrenceLimit": "5",
+      "TriggerType": "PvP",
+      "Chance": "20",
+      "SituationTags": "",
+      "FromDate": "2020-06-20T00:00:00",
+      "EndDate": "2020-06-22T00:00:00",
+      "IconSpriteId": "0"
+    }
+  },
+  "29": {
+    "_attrs": {
+      "SituationDesignId": "29",
+      "SituationName": "Double Gas!",
+      "SituationDescription": "Double League Bonus Gas from PvP Battles.",
+      "SituationType": "Environmental",
+      "Flags": "77",
+      "ChangeType": "AddLeagueBonusGas",
+      "ChangeArgumentString": "100",
+      "RequirementString": "shipLevel >= 3",
+      "DailyOccurrenceLimit": "9999",
+      "TriggerType": "PvP",
+      "Chance": "100",
+      "SituationTags": "",
+      "FromDate": "2026-10-05T00:00:00",
+      "EndDate": "2026-10-06T00:00:00",
+      "IconSpriteId": "637"
+    }
+  },
+  "30": {
+    "_attrs": {
+      "SituationDesignId": "30",
+      "SituationName": "Void Particle PvP Event",
+      "SituationDescription": "Void Particles drop in PvP",
+      "SituationType": "Environmental",
+      "Flags": "5",
+      "ChangeType": "AddLoot",
+      "ChangeArgumentString": "item:778x2",
+      "RequirementString": "shipLevel > 2",
+      "DailyOccurrenceLimit": "5",
+      "TriggerType": "PvP",
+      "Chance": "50",
+      "SituationTags": "",
+      "FromDate": "2020-08-15T00:00:00",
+      "EndDate": "2020-08-17T00:00:00",
+      "IconSpriteId": "0"
+    }
+  },
+  "31": {
+    "_attrs": {
+      "SituationDesignId": "31",
+      "SituationName": "Double XP!",
+      "SituationDescription": "Get double XP from PvP Battles.",
+      "SituationType": "Environmental",
+      "Flags": "37",
+      "ChangeType": "AddEXP",
+      "ChangeArgumentString": "100",
+      "RequirementString": "shipLevel >= 3",
+      "DailyOccurrenceLimit": "9999",
+      "TriggerType": "PvP",
+      "Chance": "100",
+      "SituationTags": "",
+      "FromDate": "2026-10-04T00:00:00",
+      "EndDate": "2026-10-05T00:00:00",
+      "IconSpriteId": "14743"
+    }
+  },
+  "32": {
+    "_attrs": {
+      "SituationDesignId": "32",
+      "SituationName": "Void Storm!",
+      "SituationDescription": "Void Particles have a chance to drop in PvP Battles.",
+      "SituationType": "Environmental",
+      "Flags": "5",
+      "ChangeType": "AddLoot",
+      "ChangeArgumentString": "item:778x3",
+      "RequirementString": "shipLevel > 2",
+      "DailyOccurrenceLimit": "20",
+      "TriggerType": "PvP",
+      "Chance": "100",
+      "SituationTags": "",
+      "FromDate": "2026-10-03T00:00:00",
+      "EndDate": "2026-10-04T00:00:00",
+      "IconSpriteId": "12751"
+    }
+  },
+  "33": {
+    "_attrs": {
+      "SituationDesignId": "33",
+      "SituationName": "Oktoberfest!",
+      "SituationDescription": "Root Beer can drop in Missions and PvP Battles.",
+      "SituationType": "Environmental",
+      "Flags": "109",
+      "ChangeType": "AddLoot",
+      "ChangeArgumentString": "item:965x3",
+      "RequirementString": "shipLevel > 2",
+      "DailyOccurrenceLimit": "10",
+      "TriggerType": "PvP",
+      "Chance": "100",
+      "SituationTags": "",
+      "FromDate": "2026-09-18T00:00:00",
+      "EndDate": "2026-10-02T00:00:00",
+      "IconSpriteId": "15057"
+    }
+  },
+  "35": {
+    "_attrs": {
+      "SituationDesignId": "35",
+      "SituationName": "Thanksgiving Throwdown!",
+      "SituationDescription": "Acorns can drop in Missions and PvP Battles.",
+      "SituationType": "Environmental",
+      "Flags": "109",
+      "ChangeType": "AddLoot",
+      "ChangeArgumentString": "item:986x3",
+      "RequirementString": "shipLevel > 2",
+      "DailyOccurrenceLimit": "10",
+      "TriggerType": "PvP",
+      "Chance": "100",
+      "SituationTags": "",
+      "FromDate": "2025-11-14T00:00:00",
+      "EndDate": "2025-11-28T00:00:00",
+      "IconSpriteId": "15175"
+    }
+  },
+  "39": {
+    "_attrs": {
+      "SituationDesignId": "39",
+      "SituationName": "Intergalactic Xmas!",
+      "SituationDescription": "Robo Santa Tech can drop in Missions and PvP Battles.",
+      "SituationType": "Environmental",
+      "Flags": "109",
+      "ChangeType": "AddLoot",
+      "ChangeArgumentString": "item:1022x3",
+      "RequirementString": "shipLevel > 2",
+      "DailyOccurrenceLimit": "12",
+      "TriggerType": "PvP",
+      "Chance": "100",
+      "SituationTags": "",
+      "FromDate": "2025-12-11T00:00:00",
+      "EndDate": "2025-12-25T00:00:00",
+      "IconSpriteId": "7436"
+    }
+  },
+  "40": {
+    "_attrs": {
+      "SituationDesignId": "40",
+      "SituationName": "Year of the Horse!",
+      "SituationDescription": "Lucky Red Coins can drop in Missions and PvP Battles.",
+      "SituationType": "Environmental",
+      "Flags": "109",
+      "ChangeType": "AddLoot",
+      "ChangeArgumentString": "item:1029x3",
+      "RequirementString": "shipLevel > 2",
+      "DailyOccurrenceLimit": "10",
+      "TriggerType": "PvP",
+      "Chance": "100",
+      "SituationTags": "",
+      "FromDate": "2026-02-20T00:00:00",
+      "EndDate": "2026-03-06T00:00:00",
+      "IconSpriteId": "15651"
+    }
+  },
+  "42": {
+    "_attrs": {
+      "SituationDesignId": "42",
+      "SituationName": "Eggstra Planetary Easter!",
+      "SituationDescription": "Carrotene can drop in Missions and PvP Battles.",
+      "SituationType": "Environmental",
+      "Flags": "109",
+      "ChangeType": "AddLoot",
+      "ChangeArgumentString": "item:1136x3",
+      "RequirementString": "shipLevel > 2",
+      "DailyOccurrenceLimit": "20",
+      "TriggerType": "PvP",
+      "Chance": "100",
+      "SituationTags": "",
+      "FromDate": "2026-03-20T00:00:00",
+      "EndDate": "2026-04-06T00:00:00",
+      "IconSpriteId": "4424"
+    }
+  },
+  "43": {
+    "_attrs": {
+      "SituationDesignId": "43",
+      "SituationName": "Interstellar Independence!",
+      "SituationDescription": "Musket Balls can drop in Missions and PvP Battles.",
+      "SituationType": "Environmental",
+      "Flags": "109",
+      "ChangeType": "AddLoot",
+      "ChangeArgumentString": "item:1186x3",
+      "RequirementString": "shipLevel > 2",
+      "DailyOccurrenceLimit": "20",
+      "TriggerType": "PvP",
+      "Chance": "100",
+      "SituationTags": "",
+      "FromDate": "2026-06-19T00:00:00",
+      "EndDate": "2026-07-03T00:00:00",
+      "IconSpriteId": "16502"
+    }
+  },
+  "44": {
+    "_attrs": {
+      "SituationDesignId": "44",
+      "SituationName": "Summer Splash!",
+      "SituationDescription": "Solar Cells can drop in Missions and PvP Battles.",
+      "SituationType": "Environmental",
+      "Flags": "109",
+      "ChangeType": "AddLoot",
+      "ChangeArgumentString": "item:1221x5",
+      "RequirementString": "shipLevel > 2",
+      "DailyOccurrenceLimit": "12",
+      "TriggerType": "PvP",
+      "Chance": "100",
+      "SituationTags": "",
+      "FromDate": "2026-07-31T00:00:00",
+      "EndDate": "2026-08-14T00:00:00",
+      "IconSpriteId": "16648"
+    }
+  },
+  "45": {
+    "_attrs": {
+      "SituationDesignId": "45",
+      "SituationName": "Double XP",
+      "SituationDescription": "Double Experience from PvP Battles.",
+      "SituationType": "User",
+      "Flags": "37",
+      "ChangeType": "AddEXP",
+      "ChangeArgumentString": "100",
+      "RequirementString": "",
+      "DailyOccurrenceLimit": "999999",
+      "TriggerType": "PvP",
+      "Chance": "100",
+      "SituationTags": "",
+      "FromDate": "2019-01-01T00:00:00",
+      "EndDate": "2019-12-12T00:00:00",
+      "IconSpriteId": "16698"
+    }
+  },
+  "46": {
+    "_attrs": {
+      "SituationDesignId": "46",
+      "SituationName": "Moon Festival!",
+      "SituationDescription": "Moon Cake Cuts can drop in Missions and PvP Battles.",
+      "SituationType": "Environmental",
+      "Flags": "109",
+      "ChangeType": "AddLoot",
+      "ChangeArgumentString": "item:806x3",
+      "RequirementString": "shipLevel > 2",
+      "DailyOccurrenceLimit": "12",
+      "TriggerType": "PvP",
+      "Chance": "100",
+      "SituationTags": "",
+      "FromDate": "2026-08-28T00:00:00",
+      "EndDate": "2026-09-11T00:00:00",
+      "IconSpriteId": "16826"
+    }
+  },
+  "47": {
+    "_attrs": {
+      "SituationDesignId": "47",
+      "SituationName": "Double Resources",
+      "SituationDescription": "Double Resources from PvP Battles.",
+      "SituationType": "User",
+      "Flags": "37",
+      "ChangeType": "AddLoot",
+      "ChangeArgumentString": "100",
+      "RequirementString": "",
+      "DailyOccurrenceLimit": "999999",
+      "TriggerType": "PvP",
+      "Chance": "100",
+      "SituationTags": "",
+      "FromDate": "2019-01-01T00:00:00",
+      "EndDate": "2019-12-12T00:00:00",
+      "IconSpriteId": "16700"
+    }
+  },
+  "48": {
+    "_attrs": {
+      "SituationDesignId": "48",
+      "SituationName": "Halloween Spooktacular!",
+      "SituationDescription": "Pumpkins can drop in Missions and PvP Battles.",
+      "SituationType": "Environmental",
+      "Flags": "13",
+      "ChangeType": "AddLoot",
+      "ChangeArgumentString": "item:814x3",
+      "RequirementString": "shipLevel > 2",
+      "DailyOccurrenceLimit": "12",
+      "TriggerType": "PvP",
+      "Chance": "100",
+      "SituationTags": "",
+      "FromDate": "2021-10-21T00:00:00",
+      "EndDate": "2021-11-04T00:00:00",
+      "IconSpriteId": "16910"
+    }
+  },
+  "50": {
+    "_attrs": {
+      "SituationDesignId": "50",
+      "SituationName": "Electro Magnetic Field",
+      "SituationDescription": "Random Rooms on all Ships receive the EMP status effect at random times during Tournament PvP Battles.",
+      "SituationType": "Environmental",
+      "Flags": "48",
+      "ChangeType": "Background",
+      "ChangeArgumentString": "backgroundId:23",
+      "RequirementString": "",
+      "DailyOccurrenceLimit": "999999",
+      "TriggerType": "PvP",
+      "Chance": "100",
+      "SituationTags": "hazard",
+      "FromDate": "2022-11-10T00:00:00",
+      "EndDate": "2022-11-12T00:00:00",
+      "IconSpriteId": "8874"
+    }
+  },
+  "51": {
+    "_attrs": {
+      "SituationDesignId": "51",
+      "SituationName": "Solar Storm",
+      "SituationDescription": "Random Rooms on all Ships are set on Fire at random times during Tournament PvP Battles.",
+      "SituationType": "Environmental",
+      "Flags": "48",
+      "ChangeType": "Background",
+      "ChangeArgumentString": "backgroundId:24",
+      "RequirementString": "",
+      "DailyOccurrenceLimit": "999999",
+      "TriggerType": "PvP",
+      "Chance": "100",
+      "SituationTags": "hazard",
+      "FromDate": "2019-01-01T00:00:00",
+      "EndDate": "2019-12-12T00:00:00",
+      "IconSpriteId": "5389"
+    }
+  },
+  "52": {
+    "_attrs": {
+      "SituationDesignId": "52",
+      "SituationName": "Frostbite",
+      "SituationDescription": "Random Crew on all Ships receive the Frozen status effect at random times during Tournament PvP Battles.",
+      "SituationType": "Environmental",
+      "Flags": "48",
+      "ChangeType": "Background",
+      "ChangeArgumentString": "backgroundId:25",
+      "RequirementString": "",
+      "DailyOccurrenceLimit": "999999",
+      "TriggerType": "PvP",
+      "Chance": "100",
+      "SituationTags": "hazard",
+      "FromDate": "2019-01-01T00:00:00",
+      "EndDate": "2019-12-12T00:00:00",
+      "IconSpriteId": "13265"
+    }
+  },
+  "53": {
+    "_attrs": {
+      "SituationDesignId": "53",
+      "SituationName": "Electro Magnetic Pulse",
+      "SituationDescription": "Random Rooms on all Ships receive an extended EMP status effect at the start of Tournament PvP Battles.",
+      "SituationType": "Environmental",
+      "Flags": "48",
+      "ChangeType": "Background",
+      "ChangeArgumentString": "backgroundId:20",
+      "RequirementString": "",
+      "DailyOccurrenceLimit": "999999",
+      "TriggerType": "PvP",
+      "Chance": "100",
+      "SituationTags": "hazard",
+      "FromDate": "2019-01-01T00:00:00",
+      "EndDate": "2019-12-12T00:00:00",
+      "IconSpriteId": "12126"
+    }
+  },
+  "54": {
+    "_attrs": {
+      "SituationDesignId": "54",
+      "SituationName": "Solar Wind",
+      "SituationDescription": "Random Rooms on all Ships are set on Fire for an extended time at the start of Tournament PvP Battles.",
+      "SituationType": "Environmental",
+      "Flags": "48",
+      "ChangeType": "Background",
+      "ChangeArgumentString": "backgroundId:21",
+      "RequirementString": "",
+      "DailyOccurrenceLimit": "999999",
+      "TriggerType": "PvP",
+      "Chance": "100",
+      "SituationTags": "hazard",
+      "FromDate": "2023-01-25T00:00:00",
+      "EndDate": "2023-02-01T00:00:00",
+      "IconSpriteId": "12201"
+    }
+  },
+  "55": {
+    "_attrs": {
+      "SituationDesignId": "55",
+      "SituationName": "Permafrost",
+      "SituationDescription": "Random Crew on all Ships receive an extended Freeze status effect at the start of Tournament PvP Battles.",
+      "SituationType": "Environmental",
+      "Flags": "48",
+      "ChangeType": "Background",
+      "ChangeArgumentString": "backgroundId:22",
+      "RequirementString": "",
+      "DailyOccurrenceLimit": "999999",
+      "TriggerType": "PvP",
+      "Chance": "100",
+      "SituationTags": "hazard",
+      "FromDate": "2022-12-25T00:00:00",
+      "EndDate": "2023-01-01T00:00:00",
+      "IconSpriteId": "12199"
+    }
+  },
+  "56": {
+    "_attrs": {
+      "SituationDesignId": "56",
+      "SituationName": "Spice War",
+      "SituationDescription": "Spice Trader Stockpiles have a chance to drop in Tournament Battles.",
+      "SituationType": "Environmental",
+      "Flags": "49",
+      "ChangeType": "AddLoot",
+      "ChangeArgumentString": "item:1489x1",
+      "RequirementString": "",
+      "DailyOccurrenceLimit": "999999",
+      "TriggerType": "PvP",
+      "Chance": "25",
+      "SituationTags": "hazard",
+      "FromDate": "2026-08-25T00:00:00",
+      "EndDate": "2026-09-01T00:00:00",
+      "IconSpriteId": "18221"
+    }
+  },
+  "58": {
+    "_attrs": {
+      "SituationDesignId": "58",
+      "SituationName": "Storage Wars",
+      "SituationDescription": "Mineral and Gas Requisitions have a small chance to drop in Tournament Battles.",
+      "SituationType": "Environmental",
+      "Flags": "49",
+      "ChangeType": "AddLoot",
+      "ChangeArgumentString": "item:1418x1|item:1419x1",
+      "RequirementString": "",
+      "DailyOccurrenceLimit": "999999",
+      "TriggerType": "PvP",
+      "Chance": "20",
+      "SituationTags": "hazard",
+      "FromDate": "2023-01-01T00:00:00",
+      "EndDate": "2023-01-01T00:00:00",
+      "IconSpriteId": "13849"
+    }
+  },
+  "59": {
+    "_attrs": {
+      "SituationDesignId": "59",
+      "SituationName": "Tour of Duty",
+      "SituationDescription": "Heroic Training Consumables have a small chance to drop in Tournament Battles.",
+      "SituationType": "Environmental",
+      "Flags": "49",
+      "ChangeType": "AddLoot",
+      "ChangeArgumentString": "item:1639x1",
+      "RequirementString": "",
+      "DailyOccurrenceLimit": "999999",
+      "TriggerType": "PvP",
+      "Chance": "20",
+      "SituationTags": "hazard",
+      "FromDate": "2026-09-24T00:00:00",
+      "EndDate": "2026-10-01T00:00:00",
+      "IconSpriteId": "3167"
+    }
+  },
+  "60": {
+    "_attrs": {
+      "SituationDesignId": "60",
+      "SituationName": "Lost Profits",
+      "SituationDescription": "Lost Profits from Annual Events have a chance to drop in Tournament Battles.",
+      "SituationType": "Environmental",
+      "Flags": "49",
+      "ChangeType": "AddLoot",
+      "ChangeArgumentString": "item:1655x1",
+      "RequirementString": "",
+      "DailyOccurrenceLimit": "999999",
+      "TriggerType": "PvP",
+      "Chance": "35",
+      "SituationTags": "hazard",
+      "FromDate": "2026-06-24T00:00:00",
+      "EndDate": "2026-07-01T00:00:00",
+      "IconSpriteId": "16692"
+    }
+  },
+  "61": {
+    "_attrs": {
+      "SituationDesignId": "61",
+      "SituationName": "Fortunate Zon",
+      "SituationDescription": "Fortune Zongzi always drop in successful Tournament Attacks.",
+      "SituationType": "Environmental",
+      "Flags": "33",
+      "ChangeType": "AddLoot",
+      "ChangeArgumentString": "item:955x1",
+      "RequirementString": "",
+      "DailyOccurrenceLimit": "999999",
+      "TriggerType": "PvP",
+      "Chance": "100",
+      "SituationTags": "hazard",
+      "FromDate": "2023-04-24T00:00:00",
+      "EndDate": "2023-05-01T00:00:00",
+      "IconSpriteId": "14578"
+    }
+  },
+  "62": {
+    "_attrs": {
+      "SituationDesignId": "62",
+      "SituationName": "Year of the Dragon!",
+      "SituationDescription": "Lucky Red Coins can drop in Missions and PvP Battles.",
+      "SituationType": "Environmental",
+      "Flags": "45",
+      "ChangeType": "AddLoot",
+      "ChangeArgumentString": "item:1029x3",
+      "RequirementString": "shipLevel > 2",
+      "DailyOccurrenceLimit": "10",
+      "TriggerType": "PvP",
+      "Chance": "100",
+      "SituationTags": "",
+      "FromDate": "2024-02-04T00:00:00",
+      "EndDate": "2024-02-18T00:00:00",
+      "IconSpriteId": "15651"
+    }
+  },
+  "63": {
+    "_attrs": {
+      "SituationDesignId": "63",
+      "SituationName": "Triple Season Points!",
+      "SituationDescription": "Triple Season Points rewarded when completing Daily Season Tasks.",
+      "SituationType": "Environmental",
+      "Flags": "109",
+      "ChangeType": "AddPassPoints",
+      "ChangeArgumentString": "200",
+      "RequirementString": "shipLevel >= 3",
+      "DailyOccurrenceLimit": "9999",
+      "TriggerType": "PvP",
+      "Chance": "100",
+      "SituationTags": "",
+      "FromDate": "2026-10-06T00:00:00",
+      "EndDate": "2026-10-07T00:00:00",
+      "IconSpriteId": "20199"
+    }
+  },
+  "64": {
+    "_attrs": {
+      "SituationDesignId": "64",
+      "SituationName": "Year of the Snake!",
+      "SituationDescription": "Lucky Red Coins can drop in Missions and PvP Battles.",
+      "SituationType": "Environmental",
+      "Flags": "45",
+      "ChangeType": "AddLoot",
+      "ChangeArgumentString": "item:1029x3",
+      "RequirementString": "shipLevel > 2",
+      "DailyOccurrenceLimit": "10",
+      "TriggerType": "PvP",
+      "Chance": "100",
+      "SituationTags": "",
+      "FromDate": "2025-01-17T00:00:00",
+      "EndDate": "2025-01-31T00:00:00",
+      "IconSpriteId": "15651"
+    }
+  },
+  "65": {
+    "_attrs": {
+      "SituationDesignId": "65",
+      "SituationName": "Meat Storm!",
+      "SituationDescription": "Mystery Meat has a chance to drop in PvP Battles.",
+      "SituationType": "Environmental",
+      "Flags": "5",
+      "ChangeType": "AddLoot",
+      "ChangeArgumentString": "item:2198x2",
+      "RequirementString": "shipLevel > 2",
+      "DailyOccurrenceLimit": "5",
+      "TriggerType": "PvP",
+      "Chance": "100",
+      "SituationTags": "",
+      "FromDate": "2025-05-16T00:00:00",
+      "EndDate": "2025-05-20T00:00:00",
+      "IconSpriteId": "24719"
+    }
+  }
+}
