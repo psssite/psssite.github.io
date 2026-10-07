@@ -12645,7 +12645,7 @@
     "_attrs": {
       "ConditionTypeId": "640",
       "ConditionTypeName": "Friendly Crew HP > 50%",
-      "ConditionTypeDescription": "This condition is true when any friendly rooms has more than 50% HP",
+      "ConditionTypeDescription": "This condition is true when any friendly crew has more than 50% HP",
       "ConditionTypeAvailability": "2",
       "ConditionTypeCategory": "YourCharacter",
       "ConditionTypeComparison": "HigherPercentage",
