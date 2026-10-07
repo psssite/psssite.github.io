@@ -2342,7 +2342,7 @@
       "Volley": "1",
       "VolleyDelay": "0",
       "Hp": "3",
-      "CraftAttackType": "Beacon",
+      "CraftAttackType": "Warper",
       "CraftTargetType": "Single",
       "AttackDistance": "300",
       "AttackRange": "500",
@@ -2350,7 +2350,7 @@
       "EntityCount": "1",
       "Capacity": "3",
       "RootCraftDesignId": "109",
-      "CraftAttackArgument": "20"
+      "CraftAttackArgument": "15"
     }
   },
   "110": {
@@ -2760,7 +2760,7 @@
       "Volley": "1",
       "VolleyDelay": "0",
       "Hp": "3",
-      "CraftAttackType": "Beacon",
+      "CraftAttackType": "Warper",
       "CraftTargetType": "Single",
       "AttackDistance": "300",
       "AttackRange": "500",
@@ -2782,7 +2782,7 @@
       "Volley": "1",
       "VolleyDelay": "0",
       "Hp": "3",
-      "CraftAttackType": "Beacon",
+      "CraftAttackType": "Warper",
       "CraftTargetType": "Single",
       "AttackDistance": "300",
       "AttackRange": "500",
@@ -2790,7 +2790,7 @@
       "EntityCount": "1",
       "Capacity": "5",
       "RootCraftDesignId": "109",
-      "CraftAttackArgument": "20"
+      "CraftAttackArgument": "25"
     }
   },
   "130": {
