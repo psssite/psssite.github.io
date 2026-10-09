@@ -2320,7 +2320,7 @@
       "Volley": "1",
       "VolleyDelay": "0",
       "Hp": "3",
-      "CraftAttackType": "Recall",
+      "CraftAttackType": "Regen",
       "CraftTargetType": "Single",
       "AttackDistance": "300",
       "AttackRange": "1000",
@@ -2328,7 +2328,7 @@
       "EntityCount": "1",
       "Capacity": "0",
       "RootCraftDesignId": "108",
-      "CraftAttackArgument": "0"
+      "CraftAttackArgument": "100"
     }
   },
   "109": {
@@ -2716,7 +2716,7 @@
       "Volley": "1",
       "VolleyDelay": "0",
       "Hp": "3",
-      "CraftAttackType": "Recall",
+      "CraftAttackType": "Regen",
       "CraftTargetType": "Single",
       "AttackDistance": "300",
       "AttackRange": "1250",
@@ -2724,7 +2724,7 @@
       "EntityCount": "1",
       "Capacity": "0",
       "RootCraftDesignId": "108",
-      "CraftAttackArgument": "0"
+      "CraftAttackArgument": "150"
     }
   },
   "127": {
@@ -2738,7 +2738,7 @@
       "Volley": "1",
       "VolleyDelay": "0",
       "Hp": "3",
-      "CraftAttackType": "Recall",
+      "CraftAttackType": "Regen",
       "CraftTargetType": "Single",
       "AttackDistance": "300",
       "AttackRange": "1500",
@@ -2746,7 +2746,7 @@
       "EntityCount": "1",
       "Capacity": "0",
       "RootCraftDesignId": "108",
-      "CraftAttackArgument": "0"
+      "CraftAttackArgument": "200"
     }
   },
   "128": {
